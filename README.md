@@ -3,7 +3,8 @@
 Учебное приложение на C# / Windows Forms для изучения алгоритма RSA и демонстрации методов криптоанализа.
 
 ## Возможности
-<img width="1182" height="707" alt="image" src="https://github.com/user-attachments/assets/0d837088-6880-4132-a2b4-aa0a9685c1b7" />
+<img width="1180" height="707" alt="image" src="https://github.com/user-attachments/assets/3c7b7368-4271-40dc-96f1-dc2a76243aa0" />
+
 
 - генерация простых чисел и RSA-ключей;
 - ручная и автоматическая генерация ключевой пары;
@@ -43,7 +44,8 @@ n = p × q
 ### 3. Анализ сообщения
 
 Программа демонстрирует учебные сценарии восстановления исходного сообщения при известных параметрах RSA.
-<img width="988" height="709" alt="image" src="https://github.com/user-attachments/assets/c5618cc7-4808-41e4-a45e-eb60ab25208d" />
+
+<img width="980" height="709" alt="image" src="https://github.com/user-attachments/assets/6f617a03-8ce3-4452-8680-9ee13541b107" />
 
 ## 🖥️ Интерфейс
 
@@ -66,6 +68,7 @@ n = p × q
 - RSA
 - теория чисел
 - криптоанализ
+<img width="984" height="691" alt="image" src="https://github.com/user-attachments/assets/f192edd9-c336-4722-b954-d3d69c34fd57" />
 
 ## 📂 Основные классы
 
