@@ -56,7 +56,6 @@ n = p × q
 - шифрование;
 - расшифрование;
 - журнал этапов.
-<img width="986" height="689" alt="image" src="https://github.com/user-attachments/assets/6d15ecb6-2a38-42c7-b588-2db8c7df0e95" />
 
 Отдельное окно «Криптоанализ RSA» показывает процесс и результаты атак.
 
